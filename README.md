@@ -1,5 +1,4 @@
 ## Hi, I'm Seenu K P🥇
-I am web developer and AI engineer from india🎯
 <!--
 **SeenuKP/SeenuKP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
